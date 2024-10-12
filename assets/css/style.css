@@ -44,6 +44,19 @@ body {
   }
 }
 
+.home-link {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  font-size: 3em;
+  transform: translate(-50%, -50%);
+  text-decoration: underline;
+  mix-blend-mode: difference;
+  color: #fff;
+  text-shadow: 2px 2px 4px #000000;
+  z-index: 1;
+}
+
 .wrapper {
   width: 90%;
   height: 90%;
