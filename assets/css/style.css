@@ -240,7 +240,8 @@ h1 {
   width: 20%;
   aspect-ratio: 1;
   background: url(../images/red-panda-2.png);
-  background-size: cover;
+  filter: drop-shadow(-4px 5px 3px rgba(0, 0, 0, 0.5));
+  background-size: cover; 
   border-radius: 12px;
   left: 40%;
   bottom: 40%;
