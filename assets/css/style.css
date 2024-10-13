@@ -265,7 +265,7 @@ h1 {
 .square {
   width: 20%;
   aspect-ratio: 1;
-  background: url(../images/red-panda-2.png);
+  background: url(../images/red-panda-2.avif);
   filter: drop-shadow(-4px 5px 3px rgba(0, 0, 0, 0.684));
   background-size: cover; 
   border-radius: 12px;
