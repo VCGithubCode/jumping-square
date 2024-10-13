@@ -1,8 +1,8 @@
-# Template for a jumping and flipping animation based on a course section from George Lomidze, co-founder at "Code and Create"
+#### Template for a jumping and flipping animation based on a course section from George Lomidze, co-founder at "Code and Create"
 
 ###### This was built to be a reference for bending/jumping/flipping animation. It is not intended to be used as-is, but rather serve as a template that can be used to create a quick CSS animation.
 
-### This will be changed as part of deliberate practice so if you are following me on my journey expect it to be randomly updated as I come up with different ideas.
+###### This will be changed as part of deliberate practice so if you are following me on my journey expect it to be randomly updated as I come up with different ideas.
 
 ## **Deployment**
 
