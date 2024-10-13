@@ -4,11 +4,9 @@
     box-sizing: border-box;
 }
 
-html {
-  font-size: 62.5%;
-}
-
+html,
 body {
+  font-size: 62.5%;
   background: #000000;
   overflow: hidden;
 }
@@ -48,7 +46,7 @@ body {
   position: absolute;
   top: 30%;
   left: 50%;
-  font-size: 3em;
+  font-size: 2.5em;
   transform: translate(-50%, -50%);
   text-decoration: underline;
   mix-blend-mode: difference;
@@ -153,7 +151,7 @@ h1 {
 80% {
   border-radius: 0 0 2rem 2rem;
   transform: translateY(-4rem);
-  width: 48%;
+  width: 45%;
   left: 26.5%;
 }
 
