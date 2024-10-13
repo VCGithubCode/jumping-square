@@ -8,6 +8,10 @@
     font-size: 62.5%;
   }
 
+  header, footer {
+    color: #ffffff
+  }
+
   .home-link {
     position: absolute;
     top: 10%;
